@@ -1,0 +1,2 @@
+# Variables-javaScript-
+exercício javascript
